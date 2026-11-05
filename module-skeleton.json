@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-executive-insights-5279400e-nuxt",
+  "capabilityKey": "liberusoftware/module-liberu-executive-insights",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-module-liberu-executive-insights-5279400e-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-executive-insights.md",
+  "presentationPlan": "projects/accounting/nuxt/liberu-executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
